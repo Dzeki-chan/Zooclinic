@@ -142,10 +142,10 @@ footer p {
     padding-bottom: 1px;
 }
 span::before {
-    content: url(https://cdn.pixabay.com/photo/2016/11/01/03/05/contact-1787332__340.png);
+    content: url();
 }
 span::after {
-    content: url(https://cdn.pixabay.com/photo/2016/11/01/03/05/contact-1787332__340.png);
+    content: url();
 }
 .before_footer {
     margin: 20px;
